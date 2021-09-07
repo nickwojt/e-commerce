@@ -5,6 +5,8 @@
 This project uses mysql2, sequelize, and express to make a functional back-end for an e-commerce site. We use insomia to test all our routes.
 
 
+LINK TO WALKTHROUGH VIDEO: https://drive.google.com/file/d/1lR0x6sTyCxkY4u-mguQgnfLDiwc95_9W/view
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
